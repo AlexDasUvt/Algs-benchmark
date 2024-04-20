@@ -1,0 +1,9 @@
+$ cat .gitignore
+.vs
+x64
+AlgsBenchmark
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.csv
