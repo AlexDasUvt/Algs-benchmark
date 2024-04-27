@@ -14,7 +14,7 @@ int main() {
 	std::vector<int> original(len);
 
 	for (int i = 0; i < len; ++i) {
-		original[i] = rand() % comp; // Random values between 0 and 999
+		original[i] = rand() % comp;
 	}
 	std::vector<int> copy = original;
 
