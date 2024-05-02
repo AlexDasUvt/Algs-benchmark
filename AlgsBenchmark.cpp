@@ -8,7 +8,7 @@ int main() {
 	int comp;
 	std::cout << "Enter the size of the array: ";
 	std::cin >> len;
-	std::cout << "Enter the complexity of the array: ";
+	std::cout << "Enter the diversity of the array: ";
 	std::cin >> comp;
 
 	std::vector<int> original(len);
